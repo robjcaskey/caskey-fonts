@@ -1,0 +1,58 @@
+[
+  {
+    "style": "Regular",
+    "w_old_bounds": [
+      0,
+      1233
+    ],
+    "w_new_bounds": [
+      0,
+      1233
+    ],
+    "w_stroke_expansion_units": 24,
+    "e_bar_shift_at_32ppem_px": 0,
+    "sha256": "04e42112199f5b847b36a6d708865cdba9a18b871f0c457145d46f0df8ad590c"
+  },
+  {
+    "style": "Italic",
+    "w_old_bounds": [
+      92,
+      1315
+    ],
+    "w_new_bounds": [
+      79,
+      1315
+    ],
+    "w_stroke_expansion_units": 24,
+    "e_bar_shift_at_32ppem_px": 0,
+    "sha256": "6dd0975d385a205c0d243766b8cf69c9096fe93a1df582833bf17c55cb36abc4"
+  },
+  {
+    "style": "Bold",
+    "w_old_bounds": [
+      38,
+      1195
+    ],
+    "w_new_bounds": [
+      24,
+      1209
+    ],
+    "w_stroke_expansion_units": 24,
+    "e_bar_shift_at_32ppem_px": 0.25,
+    "sha256": "1c7f8a95e59bf437fa41ea1f65dde091bf4cb0aa09665c8c2cb580846da59b67"
+  },
+  {
+    "style": "BoldItalic",
+    "w_old_bounds": [
+      122,
+      1279
+    ],
+    "w_new_bounds": [
+      110,
+      1279
+    ],
+    "w_stroke_expansion_units": 24,
+    "e_bar_shift_at_32ppem_px": 0.25,
+    "sha256": "797922fd96bf5e7c03b8129ea4d6864504089f101b74f0622305c147220f2691"
+  }
+]

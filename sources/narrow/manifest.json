@@ -1,0 +1,26 @@
+[
+  {
+    "file": "RobIosevka550-Bold.ttf",
+    "sha256": "f18b85bed45d4da1c76bf15ca417c433649b4e158c3b346bfa5fa425154c3512",
+    "cell_width_em": 0.55,
+    "design_weight": 600
+  },
+  {
+    "file": "RobIosevka550-BoldItalic.ttf",
+    "sha256": "480e476c0fd3bf8b51a701a31f6a3352d52db9cff5064303cdee88e57c2883d5",
+    "cell_width_em": 0.55,
+    "design_weight": 600
+  },
+  {
+    "file": "RobIosevka550-Italic.ttf",
+    "sha256": "1dd8cd28077198866e761649eeeb5fa3639cbb75a4f0e30695d499c0ea9f9ce1",
+    "cell_width_em": 0.55,
+    "design_weight": 400
+  },
+  {
+    "file": "RobIosevka550-Regular.ttf",
+    "sha256": "742978a8030417ee0c82ec9718e10aa1670e59a4258877d78a06f91c21173931",
+    "cell_width_em": 0.55,
+    "design_weight": 400
+  }
+]

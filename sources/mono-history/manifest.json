@@ -1,0 +1,90 @@
+[
+  {
+    "style": "Regular",
+    "source": "/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf",
+    "source_sha256": "54bf827eb99404e8f430c330ad30f063334f637eba0109b6a18d4f566a8e9dd8",
+    "output": "RobMonoHinted-Regular.ttf",
+    "sha256": "946a51ff2ac9278c04eabd0f8f3e35362948d761e5903b436eda721b2fbd011b",
+    "changed_glyph_programs": 2531,
+    "stem_widths": [
+      170,
+      156
+    ],
+    "options": [
+      "--stem-width-mode=qqq",
+      "--increase-x-height=0",
+      "--x-height-snapping-exceptions=24-",
+      "--hinting-range-min=8",
+      "--hinting-range-max=72",
+      "--hinting-limit=96",
+      "--ttfa-table",
+      "--control-file=/home/rob/dev-workspace/src/ghostty-qd/fonts/rob-mono/Regular.control"
+    ]
+  },
+  {
+    "style": "Bold",
+    "source": "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf",
+    "source_sha256": "0d3c03d1b667192f91223660a3163325cf83132662fe4d9f7d6e596bf7a995c2",
+    "output": "RobMonoHinted-Bold.ttf",
+    "sha256": "6c4fbf8028f6faef469868a932a6c72e19b62c8936a4b0ee175d13ae0ef5a1cf",
+    "changed_glyph_programs": 2541,
+    "stem_widths": [
+      260,
+      238
+    ],
+    "options": [
+      "--stem-width-mode=qqq",
+      "--increase-x-height=0",
+      "--x-height-snapping-exceptions=24-",
+      "--hinting-range-min=8",
+      "--hinting-range-max=72",
+      "--hinting-limit=96",
+      "--ttfa-table",
+      "--control-file=/home/rob/dev-workspace/src/ghostty-qd/fonts/rob-mono/Bold.control"
+    ]
+  },
+  {
+    "style": "Italic",
+    "source": "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Oblique.ttf",
+    "source_sha256": "710323dd803666c37988df68e736c233d96efdf5c770c8ee28f4c4f4b84fb32d",
+    "output": "RobMonoHinted-Italic.ttf",
+    "sha256": "3171806505b10c48d55169a5f31707cfa16acdc48819f4d711eba006d357c99b",
+    "changed_glyph_programs": 1977,
+    "stem_widths": [
+      170,
+      156
+    ],
+    "options": [
+      "--stem-width-mode=qqq",
+      "--increase-x-height=0",
+      "--x-height-snapping-exceptions=24-",
+      "--hinting-range-min=8",
+      "--hinting-range-max=72",
+      "--hinting-limit=96",
+      "--ttfa-table",
+      "--control-file=/home/rob/dev-workspace/src/ghostty-qd/fonts/rob-mono/Italic.control"
+    ]
+  },
+  {
+    "style": "Bold Italic",
+    "source": "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-BoldOblique.ttf",
+    "source_sha256": "2084995adab143b149258f5944b7f863804796b753014526bd7f7915b1b20770",
+    "output": "RobMonoHinted-BoldItalic.ttf",
+    "sha256": "b74bd460b083bee5c2890b5aa7af4fe8938ed0dcd28c8a3f696f90582ccc15bc",
+    "changed_glyph_programs": 1976,
+    "stem_widths": [
+      260,
+      238
+    ],
+    "options": [
+      "--stem-width-mode=qqq",
+      "--increase-x-height=0",
+      "--x-height-snapping-exceptions=24-",
+      "--hinting-range-min=8",
+      "--hinting-range-max=72",
+      "--hinting-limit=96",
+      "--ttfa-table",
+      "--control-file=/home/rob/dev-workspace/src/ghostty-qd/fonts/rob-mono/BoldItalic.control"
+    ]
+  }
+]

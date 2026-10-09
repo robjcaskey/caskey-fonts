@@ -1,0 +1,3 @@
+# Horizontal stem classes, measured from DejaVu Sans Mono H/o.
+# Prefer straight crossbar thickness, retain the curved stem class.
+latn dflt width 170, 156

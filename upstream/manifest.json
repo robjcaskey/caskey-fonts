@@ -1,0 +1,26 @@
+[
+  {
+    "file": "upstream/dejavu-2.37/DejaVuSansMono-Bold.ttf",
+    "sha256": "0d3c03d1b667192f91223660a3163325cf83132662fe4d9f7d6e596bf7a995c2",
+    "upstream_version": "2.37",
+    "debian_package": "fonts-dejavu-core 2.37-8"
+  },
+  {
+    "file": "upstream/dejavu-2.37/DejaVuSansMono-BoldOblique.ttf",
+    "sha256": "2084995adab143b149258f5944b7f863804796b753014526bd7f7915b1b20770",
+    "upstream_version": "2.37",
+    "debian_package": "fonts-dejavu-core 2.37-8"
+  },
+  {
+    "file": "upstream/dejavu-2.37/DejaVuSansMono-Oblique.ttf",
+    "sha256": "710323dd803666c37988df68e736c233d96efdf5c770c8ee28f4c4f4b84fb32d",
+    "upstream_version": "2.37",
+    "debian_package": "fonts-dejavu-core 2.37-8"
+  },
+  {
+    "file": "upstream/dejavu-2.37/DejaVuSansMono.ttf",
+    "sha256": "54bf827eb99404e8f430c330ad30f063334f637eba0109b6a18d4f566a8e9dd8",
+    "upstream_version": "2.37",
+    "debian_package": "fonts-dejavu-core 2.37-8"
+  }
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "style": "Bold",
+    "reduction_font_units": 64,
+    "upem": 2048,
+    "source_sha256": "6c4fbf8028f6faef469868a932a6c72e19b62c8936a4b0ee175d13ae0ef5a1cf",
+    "options": [
+      "--stem-width-mode=qqq",
+      "--increase-x-height=0",
+      "--x-height-snapping-exceptions=24-",
+      "--hinting-range-min=8",
+      "--hinting-range-max=72",
+      "--hinting-limit=96",
+      "--ttfa-table",
+      "--control-file=/home/rob/dev-workspace/src/ghostty-qd/fonts/rob-mono/Bold-lighter.control"
+    ],
+    "installed_sha256": "32cce84f814b2f3d1923689c1189c7727a70a38bb6d5d27a83fd674862a31352"
+  },
+  {
+    "style": "BoldItalic",
+    "reduction_font_units": 64,
+    "upem": 2048,
+    "source_sha256": "b74bd460b083bee5c2890b5aa7af4fe8938ed0dcd28c8a3f696f90582ccc15bc",
+    "options": [
+      "--stem-width-mode=qqq",
+      "--increase-x-height=0",
+      "--x-height-snapping-exceptions=24-",
+      "--hinting-range-min=8",
+      "--hinting-range-max=72",
+      "--hinting-limit=96",
+      "--ttfa-table",
+      "--control-file=/home/rob/dev-workspace/src/ghostty-qd/fonts/rob-mono/BoldItalic-lighter.control"
+    ],
+    "installed_sha256": "70f45fd83041bcbf22421776b9344c4132880da2fc57e64119d2222ab6bfa598"
+  }
+]

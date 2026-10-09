@@ -1,0 +1,26 @@
+Caskey Fonts — license scope
+
+This is a multi-license repository, not a blanket relicensing of upstream fonts.
+
+* Caskey Mono, its historical Rob Mono Hinted font snapshots, and the included
+  DejaVu Sans Mono source fonts retain their upstream Bitstream Vera / applicable
+  Arev terms. See LICENSES/Bitstream-Vera-and-Arev.txt and the license beside the
+  released fonts. DejaVu's own changes are public domain. Our independently
+  copyrightable additions are offered under MIT-0, with no extra restrictions;
+  the upstream conditions still govern the combined font files.
+* Caskey Narrow, its historical Iosevka-derived font snapshots, and its derivative
+  build plan are licensed under SIL OFL 1.1: LICENSES/OFL-1.1.txt. No new Reserved
+  Font Names are declared. The existing upstream copyright notice is preserved.
+* Independently written Python/C tools and original project documentation are
+  MIT-0: LICENSES/MIT-0.txt. Copied upstream license/attribution text retains its
+  upstream terms. Tool licensing does not override font licensing.
+
+Both upstream font licenses permit free use, modification, embedding and
+redistribution, including commercial use, subject to their terms. They restrict
+selling the fonts by themselves. OFL derivatives must stay under OFL. We cannot
+remove these upstream conditions or offer the entire fonts as MIT/public domain.
+No Caskey-specific attribution requirement or font-name reservation is added
+beyond the requirements of the applicable upstream licenses.
+
+The authoritative texts accompany each family in fonts/*/LICENSE.txt and are
+embedded in font name-table license records. ATTRIBUTION.md records provenance.

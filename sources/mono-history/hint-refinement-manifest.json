@@ -1,0 +1,16 @@
+[
+  {
+    "style": "Bold",
+    "sha256": "41c61152030bf167b4da7ba4f146d88d7f444eb67a0a41d191b948abcd50d5cd",
+    "stem_width_mode": "nnn",
+    "stem_classes": "automatically measured from thinned outlines",
+    "outline_changes": false
+  },
+  {
+    "style": "BoldItalic",
+    "sha256": "096a64c6e3a5c8f196847d0e771d7709145c7e99b78e4e35a24d1781d5dbce29",
+    "stem_width_mode": "nnn",
+    "stem_classes": "automatically measured from thinned outlines",
+    "outline_changes": false
+  }
+]

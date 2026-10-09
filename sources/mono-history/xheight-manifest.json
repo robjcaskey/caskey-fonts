@@ -1,0 +1,76 @@
+[
+  {
+    "style": "Regular",
+    "old_xheight": 1120,
+    "new_xheight": 1165,
+    "cap_height": 1493,
+    "lowercase_glyphs": 806,
+    "options": [
+      "--stem-width-mode=qqq",
+      "--increase-x-height=0",
+      "--x-height-snapping-exceptions=24-",
+      "--hinting-range-min=8",
+      "--hinting-range-max=72",
+      "--hinting-limit=96",
+      "--ttfa-table",
+      "--control-file=/home/rob/dev-workspace/src/ghostty-qd/fonts/rob-mono/Regular-xheight.control"
+    ],
+    "source_sha256": "946a51ff2ac9278c04eabd0f8f3e35362948d761e5903b436eda721b2fbd011b",
+    "output_sha256": "069863ab88bdafb26e98e622b3e696d8b22328442e27c05b426cb35147407b61"
+  },
+  {
+    "style": "Italic",
+    "old_xheight": 1120,
+    "new_xheight": 1165,
+    "cap_height": 1493,
+    "lowercase_glyphs": 779,
+    "options": [
+      "--stem-width-mode=qqq",
+      "--increase-x-height=0",
+      "--x-height-snapping-exceptions=24-",
+      "--hinting-range-min=8",
+      "--hinting-range-max=72",
+      "--hinting-limit=96",
+      "--ttfa-table",
+      "--control-file=/home/rob/dev-workspace/src/ghostty-qd/fonts/rob-mono/Italic-xheight.control"
+    ],
+    "source_sha256": "3171806505b10c48d55169a5f31707cfa16acdc48819f4d711eba006d357c99b",
+    "output_sha256": "6fd5750b7148ead3a4073bbdc4b0aab999484c0d0b8340bf88cf437d50553e74"
+  },
+  {
+    "style": "Bold",
+    "old_xheight": 1088,
+    "new_xheight": 1132,
+    "cap_height": 1461,
+    "lowercase_glyphs": 780,
+    "options": [
+      "--stem-width-mode=nnn",
+      "--increase-x-height=0",
+      "--x-height-snapping-exceptions=24-",
+      "--hinting-range-min=8",
+      "--hinting-range-max=72",
+      "--hinting-limit=96",
+      "--ttfa-table"
+    ],
+    "source_sha256": "41c61152030bf167b4da7ba4f146d88d7f444eb67a0a41d191b948abcd50d5cd",
+    "output_sha256": "b1e8aa545ca7a6b766f31b8190bb31187a5d9cf05fce0dbb5ae988126f79b5d3"
+  },
+  {
+    "style": "BoldItalic",
+    "old_xheight": 1088,
+    "new_xheight": 1132,
+    "cap_height": 1461,
+    "lowercase_glyphs": 779,
+    "options": [
+      "--stem-width-mode=nnn",
+      "--increase-x-height=0",
+      "--x-height-snapping-exceptions=24-",
+      "--hinting-range-min=8",
+      "--hinting-range-max=72",
+      "--hinting-limit=96",
+      "--ttfa-table"
+    ],
+    "source_sha256": "096a64c6e3a5c8f196847d0e771d7709145c7e99b78e4e35a24d1781d5dbce29",
+    "output_sha256": "8dc01a5619d7f5fc272b495f7d92b8a69be6274db67f2d70c23344153da1afc3"
+  }
+]
