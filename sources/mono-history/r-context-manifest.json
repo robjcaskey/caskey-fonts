@@ -1,0 +1,25 @@
+{
+  "variants": [
+    "r.entry",
+    "n.afteri"
+  ],
+  "whitespace": [
+    "space",
+    "nonbreakingspace",
+    "uni2000",
+    "uni2001",
+    "uni2002",
+    "uni2003",
+    "uni2004",
+    "uni2005",
+    "uni2006",
+    "uni2007",
+    "uni2008",
+    "uni2009",
+    "uni200A",
+    "uni202F",
+    "uni205F"
+  ],
+  "advance": 1233,
+  "sha256": "e02547600544bcc3181c8694d4c5add0b2eb91bfd0d55a3adb37a35600f87031"
+}

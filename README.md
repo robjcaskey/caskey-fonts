@@ -10,7 +10,8 @@ Two personal terminal font families, tuned through close reading at 16 pt on a
 
 Each includes regular, italic, bold and bold italic. Caskey Mono was previously
 called **Rob Mono Hinted** / `bespoke`; Caskey Narrow was **Rob Iosevka 550**.
-This rename preserves every rendering table of the saved, tested font files.
+The initial rename preserved every rendering table of the saved, tested fonts.
+Later releases include the refinements documented below.
 
 ## Install
 
@@ -38,6 +39,16 @@ Caskey Mono retains monospaced advances. Lowercase bodies are about 4% taller;
 bold has been lightened, with more natural stem hinting. Selected letters have
 small bespoke details: a rounder `s` and bold `g`, gently curved `l` flag,
 regular `a` foot flare, stronger `w`, and an understated `n` entry angle.
+
+Version 0.1.1 adds two regular-face contextual alternates through OpenType `calt`:
+* After whitespace, `r` has a slightly stronger angled entry and tighter upper join.
+* In `in`, the `n` has a tiny serif-like entry flare, with its upper outline shifted
+  right by up to 16/2048 em. Other `n` combinations retain the original outline.
+
+Both keep the same character advance. Context must be in the same shaping run;
+a line start alone does not trigger the whitespace alternate, and style/cursor
+boundaries can interrupt context. Disable with `font-feature = -calt` in Ghostty.
+The bold and italic faces retain their existing designs.
 
 Some fine accents are encoded in **native TrueType hint programs**, active at
 24–96 pixels/em. Force-autohinting or disabling hints bypasses those accents.
@@ -73,6 +84,13 @@ The portable full Mono rebuild and the original build passed 121,140 strict Free
 across ten pixel sizes. Subsequent regular-only checks passed 33,770 cases;
 bold-only checks passed 60,270. Letter pairs and mixed-weight text were also
 captured in the actual Ghostty QD renderer at 16 pt / 150% scaling.
+
+The contextual release passed 33,790 strict native-hint raster checks. HarfBuzz
+checks cover positive and negative contexts and fixed advances (`python3
+tools/check_contextual_r.py`). An actual Ghostty QD capture at 16 pt / 150% with
+`calt` on versus off confirmed changed regular `in` and whitespace-`r` pixels;
+the bold sample was unchanged. These checks confirm rendering, not a subjective
+improvement in readability.
 
 Some generated non-ASCII hint programs require size-specific guards, chiefly
 at 19 pixels/em. They render without their own glyph instructions at those

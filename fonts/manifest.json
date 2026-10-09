@@ -2,57 +2,57 @@
   {
     "file": "fonts/caskey-mono/CaskeyMono-Regular.ttf",
     "source": "sources/mono-history/output/RobMonoHinted-Regular.ttf",
-    "source_sha256": "232f26674793cb42f39ae00855c296b9e2134e4724f98c0d6d698aa67b49843e",
-    "sha256": "748ed9078d8cac8e72d5fce6f8bc8f97ba6184f5996d0b888aa95f6e2c04928c",
+    "source_sha256": "e02547600544bcc3181c8694d4c5add0b2eb91bfd0d55a3adb37a35600f87031",
+    "sha256": "5c42131bd18df7bd71abde8c245d1ffa8a5ba86e695df54f1bb121fe32512a47",
     "license": "Bitstream-Vera-and-Arev.txt"
   },
   {
     "file": "fonts/caskey-mono/CaskeyMono-Bold.ttf",
     "source": "sources/mono-history/output/RobMonoHinted-Bold.ttf",
     "source_sha256": "89fc1192323c9f3d1dfc055ff0e2f3630ffe5ab042672b181be200de2a641425",
-    "sha256": "7ccd3844d2b50f5fc23ec54f4f172aff5d7ab17cb3f6f58a6ae76a53febf5f28",
+    "sha256": "f00e1d2a9a52adcf7451da4a4b42a324d6ea77cce54e9c7e67f12c874d3b9968",
     "license": "Bitstream-Vera-and-Arev.txt"
   },
   {
     "file": "fonts/caskey-mono/CaskeyMono-Italic.ttf",
     "source": "sources/mono-history/output/RobMonoHinted-Italic.ttf",
     "source_sha256": "6dd0975d385a205c0d243766b8cf69c9096fe93a1df582833bf17c55cb36abc4",
-    "sha256": "d6a224363b79c8463d5b611fe9fc8c23cf3acd46b95d4eeacae7f194e6325121",
+    "sha256": "b1a351a2e966358410e6afde4be16ab7b7ad3c2e199fb54f89b26f9b42996865",
     "license": "Bitstream-Vera-and-Arev.txt"
   },
   {
     "file": "fonts/caskey-mono/CaskeyMono-BoldItalic.ttf",
     "source": "sources/mono-history/output/RobMonoHinted-BoldItalic.ttf",
     "source_sha256": "ee9539223e63b9af5a35fee9078d2650284886177e12b14914991167870c0884",
-    "sha256": "71ca54d463a364b7fa409e7257b54dc32a4870b1203d8e0bf509875d3f84724b",
+    "sha256": "c7e299acbc9665c5d42d6f8156c7fde0fdce90765a31f14d00f6e468e3265898",
     "license": "Bitstream-Vera-and-Arev.txt"
   },
   {
     "file": "fonts/caskey-narrow/CaskeyNarrow-Regular.ttf",
     "source": "sources/narrow/output/RobIosevka550-Regular.ttf",
     "source_sha256": "742978a8030417ee0c82ec9718e10aa1670e59a4258877d78a06f91c21173931",
-    "sha256": "7ed4d305b2858eef95b8e130da7313908dbafe967ac415f4a94f2dbfdc1d6c4f",
+    "sha256": "fc27cc3548e895862d2e853a9b4342fd12cc1300e59c5517cc820640cba5aa09",
     "license": "OFL-1.1.txt"
   },
   {
     "file": "fonts/caskey-narrow/CaskeyNarrow-Bold.ttf",
     "source": "sources/narrow/output/RobIosevka550-Bold.ttf",
     "source_sha256": "f18b85bed45d4da1c76bf15ca417c433649b4e158c3b346bfa5fa425154c3512",
-    "sha256": "f336e69e622f1831dea5907f1b0940cc37e1566d8a17c580ece3016251a4cff8",
+    "sha256": "10a4eedec5649acc0f0c77221c4c9bb4ca3677c7099c3f4e3da7807aadf6bc44",
     "license": "OFL-1.1.txt"
   },
   {
     "file": "fonts/caskey-narrow/CaskeyNarrow-Italic.ttf",
     "source": "sources/narrow/output/RobIosevka550-Italic.ttf",
     "source_sha256": "1dd8cd28077198866e761649eeeb5fa3639cbb75a4f0e30695d499c0ea9f9ce1",
-    "sha256": "865bf67c5dfdf3d07c3d5803aebd4501dfb7f297d117ef22a2e6dd6b8072f98a",
+    "sha256": "cf7c30e15fac8b6ea2bd0cbcd9eca48848905401561fb84a94b2109d31b154cf",
     "license": "OFL-1.1.txt"
   },
   {
     "file": "fonts/caskey-narrow/CaskeyNarrow-BoldItalic.ttf",
     "source": "sources/narrow/output/RobIosevka550-BoldItalic.ttf",
     "source_sha256": "480e476c0fd3bf8b51a701a31f6a3352d52db9cff5064303cdee88e57c2883d5",
-    "sha256": "23806010b29b6aacce1d0f6723dea3a073af5cc365ceda829b6e7afbf7b337e6",
+    "sha256": "fa809bf34d8e6c230333292f52f029676fb0fc252fe2c677451a347c0bafe0a1",
     "license": "OFL-1.1.txt"
   }
 ]
